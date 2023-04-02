@@ -14,6 +14,6 @@ export class AppComponent {
     { name: 'C' },
     { name: 'D' },
     { name: 'E' },
-    { name: 'F' },
+    { name: 'T' },
   ];
 }
